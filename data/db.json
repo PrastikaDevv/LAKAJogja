@@ -1,0 +1,20 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Isnaini Nurul Azizah",
+      "nim": "21/478933/SV/19404",
+      "kelas": "A",
+      "icon": "meh",
+      "color": "#363062"
+    },
+    {
+      "nama": "Nurul",
+      "nim": "21/12345/SV/123456",
+      "kelas": "A",
+      "icon": "meh",
+      "color": "#00FF00",
+      "id": 2
+    }
+  ]
+}
